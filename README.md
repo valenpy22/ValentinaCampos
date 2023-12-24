@@ -12,6 +12,7 @@
   <li>I'm from Chile, my native language is Spanish but I'm a fluent english speaker</li>
   <li>I love learning all kinds of new languages (programming languages, too)</li>
   <li>My strengths are Java as Backend, and Vue and React.js as Frontend.</li>
+  <li>I have a lot of new ideas that I want to land!</li>
 </ul> 
 <br>
 
